@@ -1,1 +1,1 @@
-# Profile sscript awaiting collaborator approval
+# Profile script awaiting collaborator approval
